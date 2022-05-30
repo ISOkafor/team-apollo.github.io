@@ -4,8 +4,7 @@ const teamMembers = document.querySelector(".team-members");
 
 teamName.innerHTML = "Group Name: Team-Apollo";
 teamName.style.color = "darkcyan";
-//teamName.style.textAlign = "center";
-teamName.style.marginLeft = "80px";
+teamName.style.textAlign = "center";
 teamName.style.marginTop = "30px";
 teamName.style.fontSize = "32px";
 
