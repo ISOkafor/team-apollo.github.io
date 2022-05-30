@@ -14,8 +14,7 @@ body {
     margin-top: 12.5%;  
 }
 
-.card-element { 
-    position: relative;               
+.card-element {                    
     min-width: 50vw;
     min-height: 50vh;    
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -51,6 +50,7 @@ body {
     }
 
     .card-element {
+        margin-top: 50px;
         width: 80vw;
         min-height: 60vh;        
     }
